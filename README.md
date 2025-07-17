@@ -48,4 +48,4 @@ Alan
 
 ---
 
-*Projet réalisé dans le cadre d'un exercice d'analyse de données avec Python et
+*Projet réalisé dans le cadre d'un exercice d'analyse de données avec Python
